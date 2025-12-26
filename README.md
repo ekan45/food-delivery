@@ -30,7 +30,7 @@ Try these promo codes at checkout:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/food-delivery.git
+git clone https://github.com/ekan45/food-delivery.git
 cd food-delivery
 ```
 
