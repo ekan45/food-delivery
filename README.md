@@ -93,6 +93,26 @@ Applied promo codes persist even when you navigate away from the cart - no need 
 ### Order Management
 Track all your orders with real-time status updates and detailed order history.
 
+## 🌐 Deployment
+
+### Deploy to Vercel (Recommended)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ekan45/food-delivery)
+
+**Manual Deployment Steps:**
+
+1. Go to [vercel.com](https://vercel.com) and sign in with GitHub
+2. Click "Add New Project"
+3. Select the `food-delivery` repository
+4. Configure settings:
+   - **Root Directory**: `frontend`
+   - **Framework Preset**: Vite
+5. Click "Deploy"
+
+Your app will be live in ~2 minutes! 🚀
+
+The `vercel.json` configuration file handles the build setup automatically.
+
 ## 📝 License
 
 This project is open source and available under the MIT License.
